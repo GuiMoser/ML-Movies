@@ -1,3 +1,3 @@
 # Machine Learning Movies
 
-Regression model to predict movie scores.
+Training a regression model to predict movie scores.

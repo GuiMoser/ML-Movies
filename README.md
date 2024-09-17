@@ -1,6 +1,7 @@
 # Machine Learning Movies
 
 Training a regression model to predict movie scores.
+
 In this notebook we see all the steps for training a regression model.
 
 EDA - Analyzes the correlation of columns with a matrix and plots graphs for better analysis of columns.

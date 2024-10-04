@@ -16,8 +16,6 @@ Hyperparemeter Tuning - Defines a function using GridSearchCV to find the hyperp
 
 Final Model - Trains the final model with the best hyperparameters and makes predictions on the test set.
 
-To Do - Feature Engineering.
-
 This notebook uses a Dataset containing information about movies which appears on IMDB website: 
 https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023
 

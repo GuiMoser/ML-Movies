@@ -24,16 +24,27 @@ Data was preprocessed to include only movies which were released after 1970 and 
 
 ## Dataset
 id - movie's ID used by IMDB repository
+
 primaryTitle - title in English
+
 originalTitle - original title in native language
+
 isAdult - parental guidance
+
 runtimeMinutes - total runtime in minutes
+
 genres - genres
+
 averageRating - final rating, based on all the ratings
+
 numVotes - total number of votes (ratings)
+
 budget - total budget in USD
+
 gross - total gross worldwide in USD
+
 release_date - release date, first occurrence
+
 directors - directors
 
 ## Objectives
